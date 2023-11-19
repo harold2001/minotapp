@@ -1,0 +1,14 @@
+#buttonIngresar {
+  background-color: #512a42;
+  color: #fff;
+}
+
+#containerData {
+  /* bottom: 30%; */
+}
+
+#firstContainer {
+  position: relative;
+  z-index: 30;
+  min-height: 100vh;
+}

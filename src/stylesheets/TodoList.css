@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+#container-todo {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  width: 340px;
+}
+
+.list-group-item {
+  color: #fff;
+  background-color: #dc89b3;
+  height: 55px;
+}
+
+.btnOkay {
+  order: -10;
+  background-color: #073c8a;
+  color: #fff;
+  transition: 0.3s ease;
+}
+
+.btnOkay:hover {
+  background-color: #157347;
+}
+
+@media screen and (min-width: 768px) {
+  #container-todo {
+    width: 450px;
+  }
+}

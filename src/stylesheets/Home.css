@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap");
+
+#container {
+  border: 4px solid #9d4a6c;
+  border-radius: 4rem;
+  position: relative;
+  z-index: 20;
+}
+
+#title {
+  font-weight: 400 !important;
+  font-style: italic;
+  letter-spacing: 0.4rem;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+#text {
+  line-height: 2rem;
+  color: rgba(255, 255, 255, 0.88);
+}
